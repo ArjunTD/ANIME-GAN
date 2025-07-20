@@ -8,8 +8,8 @@ A PyTorch implementation of a Deep Convolutional Generative Adversarial Network 
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ArjunTD/ANIME-GAN.git
+
 
 Install dependencies:
 pip install torch torchvision opendatasets matplotlib opencv-python tqdm
