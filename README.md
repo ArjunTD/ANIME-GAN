@@ -15,7 +15,7 @@ Install dependencies:
 pip install torch torchvision opendatasets matplotlib opencv-python tqdm
 
 Run the notebook:
-Open Generative_Adversarial_Networks_(GANs)_for_Anime_Image_Generation.ipynb and run all cells. The notebook will handle dataset download, training, and saving results.
+Open anime-gan-project.ipynb and run all cells. The notebook will handle dataset download, training, and saving results.
 
 🤖 Architecture
 Generator: Uses transposed convolutional layers to upscale a 128-dimensional latent vector into a 64x64 color image.
